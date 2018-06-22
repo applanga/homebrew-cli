@@ -8,9 +8,18 @@
 
 Add the tap to your local homebrew installation:
 
-		brew tap applanga/cli
+```sh
+	brew tap applanga/cli
+```
 
 Install applanga cli:
 
-		brew install applanga
+```sh
+	brew install applanga
+```
 
+To update to the latest version call:
+
+```sh
+	brew upgrade applanga
+```
