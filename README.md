@@ -1,7 +1,7 @@
 # Homebrew tap for Applanga Command Line Interface (CLI)
 
 ***
-*Version:* 1.0.26
+*Version:* 1.0.29
 
 *URL:* <https://www.applanga.com/docs/cli>
 ***
