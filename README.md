@@ -1,9 +1,13 @@
-# Homebrew tap for Applanga Command Line Interface (CLI)
+# Homebrew tap for Applanga Localization Command Line Interface (CLI)
 
 ***
 *Version:* 1.0.33
 
-*URL:* <https://www.applanga.com/docs/cli>
+*Website:* <https://www.applanga.com>
+
+*Applanga CLI Documentation:* <https://www.applanga.com/docs-integration/cli>
+
+*Applanga CLI Changelog:* <https://www.applanga.com/changelog/cli>
 ***
 
 Add the tap to your local homebrew installation:
