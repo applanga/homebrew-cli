@@ -4,7 +4,7 @@
 
 class Applanga < Formula
   desc "Applanga Command Line Interface (CLI)"
-  homepage "https://www.applanga.com/docs/cli"
+  homepage "https://www.applanga.com/docs-integration/cli"
 
   version "1.0.33"
   sha256 "05016ecf1ecbe76f3a21b652c5112fe3803df0d1063f5c0d78c822141278850d"
