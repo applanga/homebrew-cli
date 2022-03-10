@@ -6,8 +6,8 @@ class Applanga < Formula
   desc "Applanga Command Line Interface (CLI)"
   homepage "https://www.applanga.com/docs-integration/cli"
 
-  version "1.0.72"
-  sha256 "78edbe64c47a384221b58bb51f4425afb8bcb9f0edd5477f815bec054b6d1159"
+  version "1.0.73"
+  sha256 "30851c18ba31a5b52f8aa37d71058b82c003ee7506a26f98095506b5ba23476b"
 
   url "https://github.com/applanga/applanga-cli/releases/download/#{version}/applanga_osx.tar.gz"
 
