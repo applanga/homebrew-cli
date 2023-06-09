@@ -7,7 +7,7 @@ class Applanga < Formula
   homepage "https://www.applanga.com/docs-integration/cli"
 
   version "1.0.83"
-  sha256 "dc3d6a28b7370cfd2aaf6e0736eed19556e60ebd4e8fda8ae987dfa4d7e0435b"
+  sha256 "161bd34fb3b8203be229addc5b665dffada0e4aed4c619bbf32fd0e742559bcc"
 
   url "https://github.com/applanga/applanga-cli/releases/download/#{version}/applanga_osx.tar.gz"
 
