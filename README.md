@@ -1,7 +1,7 @@
 # Homebrew tap for Applanga Localization Command Line Interface (CLI)
 
 ***
-*Version:* 1.0.112
+*Version:* 1.0.113
 
 *Website:* <https://www.applanga.com>
 
